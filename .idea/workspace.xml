@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92a53b2e-1549-4333-a974-3c0f1851b90b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="ProjectId" id="1XZMQIrJVmXOI3SWHdIllJg2OH1" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -31,6 +38,19 @@
         <item itemvalue="Python.sample file alana" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92a53b2e-1549-4333-a974-3c0f1851b90b" name="Default Changelist" comment="" />
+      <created>1581249145377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581249145377</updated>
+    </task>
+    <servers />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="22" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581249204816">
